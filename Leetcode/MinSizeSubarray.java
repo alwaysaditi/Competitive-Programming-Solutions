@@ -1,5 +1,5 @@
 package Leetcode;
-
+// Sliding Window Technique
 class MinSizeSubarray {
     public int minSubArrayLen(int target, int[] nums) {
 
