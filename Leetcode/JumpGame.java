@@ -9,6 +9,7 @@ package Leetcode;
 //As we start iterating from behind, we update the value of the "index" variable whenever we can get a newer, smaller index that can definitely reach the end
 //Thus if "index" =0 at the end of the iteration, it means we can reach the end from index 0 and we return true
 //Else we return false
+// DYNAMIC PROGRAMMING TECHNIQUE
 public class JumpGame {
     public boolean canJump(int[] nums) {
         int n = nums.length;
