@@ -1,3 +1,5 @@
+// problem 1524 : Number of subarrays with odd sum
+
 class noOfSubarrays {
     public int numOfSubarrays(int[] arr) {
         int oddnew=0;
