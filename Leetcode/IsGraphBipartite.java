@@ -1,3 +1,5 @@
+package Leetcode;
+
 class IsGraphBiPartite {
  // basically a graph coloring problem. Basically you're supposed to color the graph , with adjacent nodes having alternate colors.
     // if such a coloring is not possible return false
