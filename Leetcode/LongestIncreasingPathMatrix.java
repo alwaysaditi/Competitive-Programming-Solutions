@@ -1,3 +1,8 @@
+// In this we use a DP matrix to store the longest path from  any index.
+// We visit other neighbours by DFS if the longest path is not already found
+// neighbours will never get caught in a cycle since we only visit neighbours if they're strictly
+//greater
+
 class LongestIncreasingPathMatrix{
     int dp[][];
     public int longestIncreasingPath(int[][] matrix) {
