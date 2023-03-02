@@ -1,4 +1,4 @@
-class Solution {
+class MaxProdSubarray {
     public int maxProduct(int[] nums) {
         int maximum[] = new int[nums.length];
         int minimum[] = new int[nums.length];

@@ -1,3 +1,5 @@
+package Leetcode;
+
 class productExceptSelf {
     public int[] productExceptSelf(int[] nums) {
         int lp[]=new int[nums.length];

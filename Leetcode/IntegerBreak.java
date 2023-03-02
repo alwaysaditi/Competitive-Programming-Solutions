@@ -1,3 +1,7 @@
+package Leetcode;
+
+import java.util.Arrays;
+
 // the idea is to build a solution using the numbers that
 //are smaller than it. the maximum sum possible for any
 //number whether we build it from two or more
@@ -10,7 +14,7 @@
 //number(as sums after the median usually repeat).
 //Initialize a variable to store the maxproduct, in a for
 //loop that stores all possible products upto target.
-class Solution {
+class IntegerBreak{
 
     public int integerBreak(int n) {
 

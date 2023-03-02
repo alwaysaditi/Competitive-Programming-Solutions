@@ -1,6 +1,9 @@
-// java simulation 
+package Leetcode;// java simulation
 
-class Solution {
+import java.util.ArrayList;
+import java.util.List;
+
+class SpiralMatrix {
     int right_col;
     int left_col;
     int upper_row;

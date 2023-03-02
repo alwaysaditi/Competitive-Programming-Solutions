@@ -1,3 +1,7 @@
+package Leetcode;
+
+import java.util.Arrays;
+
 class ExistPath {
 
     //We follow the concept of parent-child. By path compression , we have only one parent for any

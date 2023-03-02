@@ -1,3 +1,7 @@
+package Leetcode;
+
+import java.util.Arrays;
+
 class CourseSchedule {
     //The approach is to solve this problem with DFS and topological sort.
     // In topological sort, all the elements which are parents of a child (i.e child is dependent on the parent ) are marked visited.

@@ -1,3 +1,6 @@
+import java.util.Collections;
+import java.util.HashMap;
+
 class MinCardPickUp{
     public int minimumCardPickup(int[] cards) {
         HashMap<Integer,Integer> first = new HashMap<Integer,Integer>();

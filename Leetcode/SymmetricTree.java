@@ -13,7 +13,7 @@
  *     }
  * }
  */
-class Solution {
+class SymmetricTree {
     boolean answer = false;
     boolean isFound = false;
     public boolean isSymmetric(TreeNode root) {

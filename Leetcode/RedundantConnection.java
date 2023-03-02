@@ -1,3 +1,7 @@
+package Leetcode;
+
+import java.util.Arrays;
+
 class RedundantConnection {
 
     //1. if both don't have parents set the smaller to be the parent of the larger
