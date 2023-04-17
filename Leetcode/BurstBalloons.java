@@ -1,4 +1,4 @@
-// DP solution with Matrix Chain Multiplication algorithm
+package Leetcode;// DP solution with Matrix Chain Multiplication algorithm
 
 
 class BurstBalloons {

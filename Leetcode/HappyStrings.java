@@ -1,3 +1,5 @@
+package Leetcode;
+
 //Kth Lexicographical String of all Happy Strings of length n
 class HappyStrings {
     public String getHappyString(int n, int k) {

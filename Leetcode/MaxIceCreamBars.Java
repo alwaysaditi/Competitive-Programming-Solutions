@@ -1,3 +1,7 @@
+package Leetcode;
+
+import java.util.Arrays;
+
 // Greedy problem
 class MaxIceCreamBars {
     public int maxIceCream(int[] costs, int coins) {
