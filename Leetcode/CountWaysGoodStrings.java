@@ -1,3 +1,5 @@
+// leetcode 2466
+
 class CountWaysGoodStrings {
     public int countGoodStrings(int low, int high, int zero, int one) {
         int minstart = Math.min(zero,one);
